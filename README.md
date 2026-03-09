@@ -1,3 +1,3 @@
-# BackendEssentials-work_req_2
+# BackendEssentials, work requirement 2 - ReadMe reflection
 
 Collaboration and a shared understanding on multiple aspects of the code in a project is crucial for the development process. The **documentation** and **version control** is essential to know when and what happened, and by whom, both for internal team members as well as external stakeholders looking at our program. Why did we choose to do the changes, or why did we discard some of the code, should all be documented for the past and future. **Diagrams** and **automated tests ** are important tools to get to know and visualise the goals and map the steps in the development process and foresee potential bugs or fallbacks. **Pair programming**, **mob programming ** and **peer reviews** are also valuable tools for getting to know the code base, align the goals and the direction of the project between team members and stakeholders.
